@@ -1,0 +1,1 @@
+/Users/omar.montero/code/rust/the-rust-programming-language/hello_world/collections/target/debug/collections: /Users/omar.montero/code/rust/the-rust-programming-language/hello_world/collections/src/main.rs
